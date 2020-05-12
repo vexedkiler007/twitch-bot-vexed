@@ -1,0 +1,11 @@
+app.py
+geckodriver.log
+twitch_screen.py
+venv
+templates
+static
+brainstorm
+local_history.patch
+config.py
+schemaSpy.jar
+todolist
