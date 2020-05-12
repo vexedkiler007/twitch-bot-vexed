@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="283444c6-b0e9-4eb8-862a-fb3e2a6bb8ed" name="Default Changelist" comment="" />
+    <list default="true" id="283444c6-b0e9-4eb8-862a-fb3e2a6bb8ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +64,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YLNq7yE2r7S9vzO1wDl3VgRcXJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -68,6 +76,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/data" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -89,7 +98,7 @@
       <recent name="C:\Users\juanr\PycharmProjects\Twitch_Bot\commands" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.twitch_screen">
     <configuration name="define" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Twitch_Bot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,7 +187,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="youtube" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="twitch_screen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Twitch_Bot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -186,12 +195,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/commands" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commands/youtube.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitch_screen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.twitch_screen" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.play" />
         <item itemvalue="Python.define" />
         <item itemvalue="Python.twitch_irc" />
-        <item itemvalue="Python.youtube" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +289,7 @@
       <workItem from="1587322466658" duration="154000" />
       <workItem from="1587864825709" duration="2193000" />
       <workItem from="1587960530337" duration="1600000" />
-      <workItem from="1589264850344" duration="2212000" />
+      <workItem from="1589264850344" duration="3864000" />
     </task>
     <servers />
   </component>
@@ -320,22 +329,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="217" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1583258866918" />
-    <state width="1864" height="274" key="GridCell.Tab.0.bottom" timestamp="1587171718299">
+    <state width="1864" height="274" key="GridCell.Tab.0.bottom" timestamp="1589270740010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587171718299" />
-    <state width="1864" height="274" key="GridCell.Tab.0.center" timestamp="1587171718299">
+    <state width="1864" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270740010" />
+    <state width="1864" height="274" key="GridCell.Tab.0.center" timestamp="1589270740010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587171718299" />
-    <state width="1864" height="274" key="GridCell.Tab.0.left" timestamp="1587171718299">
+    <state width="1864" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270740010" />
+    <state width="1864" height="274" key="GridCell.Tab.0.left" timestamp="1589270740010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587171718299" />
-    <state width="1864" height="274" key="GridCell.Tab.0.right" timestamp="1587171718299">
+    <state width="1864" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270740010" />
+    <state width="1864" height="274" key="GridCell.Tab.0.right" timestamp="1589270740010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1864" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1587171718299" />
+    <state width="1864" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1589270740010" />
     <state width="903" height="334" key="GridCell.Tab.1.bottom" timestamp="1585736256183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -382,9 +391,10 @@
     <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1585591058679" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Twitch_Bot$twitch_screen.coverage" NAME="twitch_screen Coverage Results" MODIFIED="1589270740000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Twitch_Bot$Twich_IRC.coverage" NAME="Twich_IRC Coverage Results" MODIFIED="1582722630707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Twitch_Bot$twitch_irc.coverage" NAME="twitch_irc Coverage Results" MODIFIED="1585601363346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Twitch_Bot$main.coverage" NAME="main Coverage Results" MODIFIED="1589268889556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Twitch_Bot$main.coverage" NAME="main Coverage Results" MODIFIED="1589270726183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Twitch_Bot$define.coverage" NAME="define Coverage Results" MODIFIED="1585603683757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commands" />
     <SUITE FILE_PATH="coverage/Twitch_Bot$play.coverage" NAME="play Coverage Results" MODIFIED="1585668110657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commands" />
     <SUITE FILE_PATH="coverage/Twitch_Bot$list_streamer.coverage" NAME="list_streamer Coverage Results" MODIFIED="1582904715063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commands" />

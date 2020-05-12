@@ -9,3 +9,5 @@ local_history.patch
 config.py
 schemaSpy.jar
 todolist
+.idea
+__pycache__
